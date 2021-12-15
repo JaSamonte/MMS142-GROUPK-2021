@@ -1,6 +1,7 @@
 # Web & Video Conferencing and Other Industries
 
 ## EDUCATION
+### *by Janielle Marisse Samonte*
 
 Face-to-face services like co-working spaces, flight services, and lodging were toppled down due to the pandemic. However, it’s not only these which were gravely affected. Because of the pandemic, the education sector was forced to shift from face-to-face to other variations and modes of classes. There’s blended-learning, home-schooling, distance-learning, and e-learning. But a lot of schools chose online learning as the main mode of learning.
 
