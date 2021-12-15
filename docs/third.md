@@ -35,6 +35,10 @@ Many people have adapted and shifted to telecommuting or remote work, moving col
 
 
 
+- **Web Conferencing**
+
+Video conferencing is getting more and more common these days. With so many businesses and educational institutions using it for training classes and teleconferences, it has become an indispensable tool for employees. Telephone conferences, which were little more than simple phone talks, were the starting point for video conferencing decades ago. Picturephone was the name given to the technology when it was originally launched in 1968. Participants were allowed to communicate with the person on the other end of the line through video (Vyopta, 2018). AT&T and Bell Labs were at the forefront of technological advancement since they were the only method of communication for decades on end (Patrizio, 2021). It was regarded as an expensive and low-quality method of conducting business. In recent years, digital technology has become less expensive and more effective.
+
 
 NEXT [Web & Video Conferencing and Flight Services & Lodging](fourth.md)
 PREVIOUS [Web & Video Conferencing and Regular Calls](second.md)
