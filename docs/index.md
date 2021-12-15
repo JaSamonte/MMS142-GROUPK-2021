@@ -9,7 +9,7 @@ As for Christensen, Raynor, and McDonald (2015) the term disruptive technology h
 
 - **New** – Disruptive technologies do not provide the same product, for it targets a new set of customers. Hence, selling the same product would not create a new nor different market, but target the same people as those established businesses. (_Example: E-mails were new when the in-real-life mailing industry was disrupted_)
 
-- **Simpler** – Customers usually resort to less-complicated options, particularly products that are effective without having to spend more time performing tasks. (_Example: The Grab App allows users to book a ride through a few taps_).
+- **Simple** – Customers usually resort to less-complicated options, particularly products that are effective without having to spend more time performing tasks. (_Example: The Grab App allows users to book a ride through a few taps_).
 
 - **Convenient** – Customers prefer products that do not provide inconveniencies, regardless of frequency and gravity whereas they would rather choose a product that provides additional benefits. (_Example: Through Facebook, a user can call, message, post, sell, join groups, follow pages, etc. unlike e-mail and telephone calls_).
 
