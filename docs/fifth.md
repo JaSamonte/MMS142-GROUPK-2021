@@ -7,7 +7,8 @@ Face-to-face services like co-working spaces, flight services, and lodging were 
 
 Synchronous online classes became a temporary replacement for face-to-face discussions. To hold these kinds of sessions, of course, many used web conferencing applications like Zoom, Discord, Google Meet, and Microsoft Teams just to name a few. 
 
-<img src = "https://github.com/JaSamonte/MMS142-GROUPK-2021/blob/main/docs/Zoom-Logo.png" alt = "Zoom Logo" width = "450" height = "250">
+<img src = "https://github.com/JaSamonte/MMS142-GROUPK-2021/blob/main/docs/images/Zoom-Logo.png" alt = "Zoom Logo" width = "450" height = "250">
+<img srr = "" alt = "Discord" width = "450" height = "250">
 
 That said, **online classes paved the way for the usage of video conferencing software/applications.** 
 
