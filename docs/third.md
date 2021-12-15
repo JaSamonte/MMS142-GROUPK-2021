@@ -8,6 +8,8 @@ Many people have adapted and shifted to telecommuting or remote work, moving col
   This did not only affect the corporate industries and its people, but has also impacted physical working spaces, co-working spaces, and other places that used to offer up their venues for rental for the workforce.
 
 
+
+
 **Working and Co-Working Spaces Before Pandemic**
 
   Working spaces were a norm in all industries in every country. Work-spaces are traditionally seen in an office.
