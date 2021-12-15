@@ -12,7 +12,7 @@ Many people have adapted and shifted to telecommuting or remote work, moving col
 
 - **Working and Co-Working Spaces Before Pandemic**
 
-  Working spaces were a norm in all industries in every country. Work-spaces are traditionally seen in an office.
+Working spaces were a norm in all industries in every country. Work-spaces are traditionally seen in an office.
 
   A company or organization can have an office in a location where it has an official presence, even if that presence only includes a storage of products, rather than an official establishment with desks and chairs. The creation of offices dates back to the 18th century, right when the industrial era had become more developed; expanding banking, insurance, railways, petroleum, and many more industries. The role of an office is to create an environment to support its occupants in performing their job.
 
