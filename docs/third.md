@@ -25,6 +25,16 @@ Many people have adapted and shifted to telecommuting or remote work, moving col
   But because of the pandemic, the concept of going to an office or renting a co-working space had drastically changed. 
 
 
+- **Work from Home in the Pandemic**
+
+  The work from home set-up is not new, however it became the norm for corporations when COVID-19 had begun spreading across every country mid-March of 2020. People have started remotely working from their own house, and the industry completely shifted.
+
+  They’ve provided internet access to every worker, and sometimes given them company laptops and gadgets so that they can work from their houses with ease. Everyday meetings and conferences shifted from being scheduled to a room, to becoming web-conference calls via Zoom, Google Meets, Skype, and more.
+
+  The use of emails have also been utilized to its full potential. Because of the pandemic _____ million emails have been recorded in 2020 alone. 
+
+
+
 
 NEXT [Web & Video Conferencing and Flight Services & Lodging](fourth.md)
 PREVIOUS [Web & Video Conferencing and Regular Calls](second.md)
