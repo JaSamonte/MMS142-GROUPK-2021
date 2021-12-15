@@ -1,4 +1,5 @@
-## Disruptive Technologies: Web and Video Conferencing
+# Disruptive Technologies: Web and Video Conferencing
+### _by Patrick Angelo A. Soriano_
 
 Living in the 21st century means having to experience the rapid production and proliferation of technologies around us. In the past couple of years, we have first-handedly witnessed and experienced changes in our daily lives that are ushered by technologies – performing certain tasks more efficiently and effectively. One example being the upgrade from telephones to cell phones, and currently, to smartphones in which numerous tasks can be performed, most of which used to require additional resources, infrastructures, energy, time, and many more. Moreover, it is not only our individual personal lives that are being affected, but industries as well, such as businesses. Technologies now assist, support, and mediate businesses in their day-to-day operations to which it has become a necessary aspect; inability to catch up with the constantly-evolving technology may cause consequences that are destructive (Melo, 2018; Da Costa, 2021).
 
