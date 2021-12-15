@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Disruptive Technologies & Video Conferencing as a Disruptive Technology
 
 You can use the [editor on GitHub](https://github.com/JaSamonte/MMS142-GROUPK-2021/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
