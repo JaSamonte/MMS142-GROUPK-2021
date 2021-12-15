@@ -12,7 +12,7 @@ Many people have adapted and shifted to telecommuting or remote work, moving col
 
 - **Working and Co-Working Spaces Before Pandemic**
 
-Working spaces were a norm in all industries in every country. Work-spaces are traditionally seen in an office.
+  Working spaces were a norm in all industries in every country. Work-spaces are traditionally seen in an office.
 
   A company or organization can have an office in a location where it has an official presence, even if that presence only includes a storage of products, rather than an official establishment with desks and chairs. The creation of offices dates back to the 18th century, right when the industrial era had become more developed; expanding banking, insurance, railways, petroleum, and many more industries. The role of an office is to create an environment to support its occupants in performing their job.
 
@@ -37,7 +37,11 @@ Working spaces were a norm in all industries in every country. Work-spaces are t
 
 - **Web Conferencing**
 
-Video conferencing is getting more and more common these days. With so many businesses and educational institutions using it for training classes and teleconferences, it has become an indispensable tool for employees. Telephone conferences, which were little more than simple phone talks, were the starting point for video conferencing decades ago. Picturephone was the name given to the technology when it was originally launched in 1968. Participants were allowed to communicate with the person on the other end of the line through video (Vyopta, 2018). AT&T and Bell Labs were at the forefront of technological advancement since they were the only method of communication for decades on end (Patrizio, 2021). It was regarded as an expensive and low-quality method of conducting business. In recent years, digital technology has become less expensive and more effective.
+  Video conferencing is getting more and more common these days. With so many businesses and educational institutions using it for training classes and teleconferences, it has become an indispensable tool for employees. Telephone conferences, which were little more than simple phone talks, were the starting point for video conferencing decades ago. Picturephone was the name given to the technology when it was originally launched in 1968. Participants were allowed to communicate with the person on the other end of the line through video (Vyopta, 2018). AT&T and Bell Labs were at the forefront of technological advancement since they were the only method of communication for decades on end (Patrizio, 2021). It was regarded as an expensive and low-quality method of conducting business. In recent years, digital technology has become less expensive and more effective.
+
+  Video conferencing is now easier than ever thanks to applications such as Skype or Google Hangouts, which can be accessed anywhere via your smartphone or computer. Moreover, software choices are now more varied than ever. Today, the most prevalent are Skype, Hangouts, and Zoom - all free.
+
+  Among the most popular web-conferencing tools is Zoom. It has been well-known since 2013, however this 2020 it’s been one of the most used web-conferencing platforms. It can enable unlimited users worldwide to collaborate and attend meetings. With millions forced to stay at home as a result of the Coronavirus pandemic, the 9-year-old platform has become a go-to service (Kelly, 2020). As well as providing a reliable platform for virtual meetings, it has been used for classroom lessons, church services, hanging out with friends, and even romantic dates.
 
 
 NEXT [Web & Video Conferencing and Flight Services & Lodging](fourth.md)
