@@ -1,5 +1,12 @@
 ## Video Conferencing as a Disruptive Technology
 
+INTRO
+
+BODY
+
+NEXT
+[Web & Video Conferencing and Regular Calls](second.md)
+___________________________________________________________________________________________________________________________________________________
 You can use the [editor on GitHub](https://github.com/JaSamonte/MMS142-GROUPK-2021/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
