@@ -7,8 +7,8 @@ Face-to-face services like co-working spaces, flight services, and lodging were 
 
 Synchronous online classes became a temporary replacement for face-to-face discussions. To hold these kinds of sessions, of course, many used web conferencing applications like Zoom, Discord, Google Meet, and Microsoft Teams just to name a few. 
 
-<img src = "https://github.com/JaSamonte/MMS142-GROUPK-2021/blob/main/docs/images/Zoom-Logo.png" align = center alt = "Zoom Logo" width = "350" height = "200"><img src = "https://github.com/JaSamonte/MMS142-GROUPK-2021/blob/main/docs/images/Discord.jpg" align = center alt = "Discord Logo" width = "350" height = "200">
-<img src = "https://github.com/JaSamonte/MMS142-GROUPK-2021/blob/main/docs/images/GoogleMeet.png" align = center alt = "Google Meet Logo" width = "350" height = "200"><img src = "https://github.com/JaSamonte/MMS142-GROUPK-2021/blob/main/docs/images/MicroTeams.png" align = center alt = "MicroTeams Logo" width = "350" height = "200">
+<img src = "https://github.com/JaSamonte/MMS142-GROUPK-2021/blob/main/docs/images/Zoom-Logo.png" align = "center" alt = "Zoom Logo" width = "350" height = "200"><img src = "https://github.com/JaSamonte/MMS142-GROUPK-2021/blob/main/docs/images/Discord.jpg" align = "center" alt = "Discord Logo" width = "350" height = "200">
+<img src = "https://github.com/JaSamonte/MMS142-GROUPK-2021/blob/main/docs/images/GoogleMeet.png" align = "center" alt = "Google Meet Logo" width = "350" height = "200"><img src = "https://github.com/JaSamonte/MMS142-GROUPK-2021/blob/main/docs/images/MicroTeams.png" align = "center" alt = "MicroTeams Logo" width = "350" height = "200">
 
 That said, **online classes paved the way for the usage of video conferencing software/applications.** 
 
