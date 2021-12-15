@@ -8,7 +8,10 @@ Synchronous online classes became a temporary replacement for face-to-face discu
 
 There have been big investments for educational technology (EdTech) like video conferencing tools which reached a total of 18.66 billion dollars in 2019 (Li & Lalani, 2020). In line with this, it was observed that there’s a higher surge in EdTech usage this pandemic. More companies invest on new cloud servers to support online distance learning. For example, Alibaba’s distance learning solution involved tapping to more cloud storage to deploy more cloud servers within months. Thus, we can see that it is disruptive, especially this pandemic.
 
-Go Back to [Web & Video Conferencing and Flight Services & Lodging](fourth.md)
+## ENTERTAINMENT
 
-Back to [Back](index.md)
+
+Go Back to [Web & Video Conferencing and Flight Services & Lodging](fourth.md)                                  
+
+Back to [Home](index.md)
 
