@@ -5,7 +5,7 @@ INTRO
 BODY
 
 NEXT
-[Web & Video Conferencing and Regular Calls](second.md)
+[Web & Video Conferencing and Working Spaces](third.md)
 ___________________________________________________________________________________________________________________________________________________
 You can use the [editor on GitHub](https://github.com/JaSamonte/MMS142-GROUPK-2021/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
