@@ -14,7 +14,7 @@ title: trial
 # Belongs at: /_data/navigation.yml
 
 - title: Home
-  url: /
+  url: index.md
 
 - title: Group of Things
   url: /group/
