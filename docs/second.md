@@ -10,6 +10,8 @@ Before, regular calls or phone conferences through landline were the most effici
 
 The dawn of video conferencing now paved the way for both audio features and video features that landlines were not able to offer. Users can now visually engage with a single to multiple individuals at once. This new era spawned the great decline of landline industry and sales as the number of video conferencing users continues to increase. According to a US government study in 2018 conducted by the Centers for Disease Control and Prevention, only around 5% of the survey population relied on a landline.
 
+<img src = "https://github.com/JaSamonte/MMS142-GROUPK-2021/blob/main/docs/images/Landline%20stats.jpeg" align = "center" alt = "Zoom Logo" width = "500" height = "500">
+
 Some of the telephone companies disruptively affected by the advent of video conferencing are major competitors such as Motorola, VTech, Philips, Panasonic and Alcatel among many major competitors. This technological dynamic has forced these businesses to change the way they operate, barely hanging by the thread (Global Landline Phones Market Growth, 2021).  
 
 
