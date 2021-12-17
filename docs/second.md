@@ -2,7 +2,9 @@ ________________________________________________________________________________
 # Web & Video Conferencing and Regular Calls
 ### *by Ariel Marie Sanchez and Isaiah Caleb A. Revilla*
 
-- **Video Conferencing Vs. Traditional Call Industry**
+
+
+**Video Conferencing Vs. Traditional Call Industry**
 
 Before, regular calls or phone conferences through landline were the most efficient way of communication, especially in the corporate setting. By pressing a few buttons, people can converse with their loved ones, colleagues, and coworkers easily. However, the rise of cell phones has killed off the profusion of landlines. Video conferencing has an expansive edge over regular calls and one cannot deny to consider the beneficial and convenient shifts such as that it is beyond more engaging and productive, eliminates errors improving communication, establishes more personal connection, and reduces decision time making.  
 
