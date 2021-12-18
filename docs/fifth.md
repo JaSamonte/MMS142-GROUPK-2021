@@ -13,12 +13,12 @@ Synchronous online classes became a temporary replacement for face-to-face discu
 <img src = "https://github.com/JaSamonte/MMS142-GROUPK-2021/blob/main/docs/images/Discord.jpg" align = "center" alt = "Discord Logo" width = "350" height = "200">
 3. Google Meet,  
 <img src = "https://github.com/JaSamonte/MMS142-GROUPK-2021/blob/main/docs/images/GoogleMeet.png" align = "center" alt = "Google Meet Logo" width = "350" height = "200">
-4. and Microsoft Teams just to name a few. 
+4. and Microsoft Teams 
 <img src = "https://github.com/JaSamonte/MMS142-GROUPK-2021/blob/main/docs/images/MicroTeams.png" align = "center" alt = "MicroTeams Logo" width = "350" height = "200">
 
-That said, **online classes paved the way for the usage of video conferencing software/applications.** 
+These video web conferencing applications are said to be part of what we call Educational Technology or **EdTech** for short. These tools received big investments this 2019, and specifically it reached a total of **18.66 billion dollars** (Li & Lalani, 2020). That said, it is observed that the pandemic caused a high surge in EdTech usage since face-to-face classes is a no go for safety purposes. Thus, it is seen that **online classes paved the way for the usage of video conferencing software/applications.** 
 
-There have been big investments for educational technology (EdTech) like video conferencing tools which reached a total of **18.66 billion dollars** in 2019 (Li & Lalani, 2020). In line with this, it was observed that there’s a **higher surge in EdTech usage this pandemic**. More companies invest on new cloud servers to support online distance learning. For example, Alibaba’s distance learning solution involved tapping to more cloud storage to deploy more cloud servers within months. Thus, we can see that it is disruptive, especially this pandemic.
+More companies invest on new cloud servers to support online distance learning. For example, Alibaba’s distance learning solution involved tapping to more cloud storage to deploy more cloud servers within months. Thus, we can see that it is disruptive, especially this pandemic.
 
 ## ENTERTAINMENT
 ### *by Mark Adrian Segovia*
