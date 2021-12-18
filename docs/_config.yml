@@ -1,27 +1,3 @@
 theme: jekyll-theme-minimal
 title: Web & Video Conferencing Apps as Distruptive Technologies
 description: The pandemic has changed how different businesses operate, especially working spaces, flight services and lodging, and other industries. Web-conferencing software has disrupted multiple businesses in this area, and has helped people work and communicate remotely.
-
-link: [Video Conferencing as a Disruptive Technology],(index.md);
-link: [Web/Video Conferencing & Regular Calls],(second.md);
-link: [Video Conferencing in Working Spaces],(third.md);
-link: [Video Conferencing in Flight Services & Lodging],(fourth.md);
-link: [Videoconferencing and Other Industries],(fifth.md);
-link: [References],(sixth.md);
-
-
-title: trial
-# Belongs at: /_data/navigation.yml
-
-- title: Home
-  url: index.md
-
-- title: Group of Things
-  url: /group/
-  sublinks:
-    - title: Sub-item 1
-      url: /group/si1
-    - title: Sub-item 2
-      url: /group/si2
-    - title: Sub-item 3
-      url: /group/si3
