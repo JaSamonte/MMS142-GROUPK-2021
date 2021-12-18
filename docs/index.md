@@ -5,7 +5,8 @@ Living in the 21st century means having to experience the rapid production and p
 
 In relation, businesses find opportunities in technologies – most of the successful ones tend to alter consumer consumption, business operations, and the industry in general. These are called **Disruptive Technologies**. In **1997**, **Clayton Christensen**, in his work **The Innovator’s Dilemma**, coined and popularized the said term which meant a new, simple, affordable, and convenient product that appeals to non-mainstream, and/or less-demanding market that established businesses often overlook (DeVries, 2020). The “disruptive” aspect comes into play if it was able to supersede an older product or company by creating their own market. According to Smith (2020), an established company may be disrupted if it fails in terms of flexibility to adapt to emerging threats wherein if overlooked, disruptive technologies can take advantage of. From there, it works its way up to be the superior product or company as it crushes its incumbents (Christensen, 2014). 
 
-![Clayton Christensen](https://github.com/JaSamonte/MMS142-GROUPK-2021/blob/06655f22a91919d1c56cb916689ab3ee2d5097dd/docs/images/Clayton%20Christensen.jpg) _Clayton Christensen by John Lamparski (Getty Images)_
+![Clayton Christensen](https://github.com/JaSamonte/MMS142-GROUPK-2021/blob/a391bb84c05ec50613d22ce30a790439f1d81d79/docs/images/Clayton%20Christensen.jpg)
+_Clayton Christensen by John Lamparski (Getty Images)_
 
 As for Christensen, Raynor, and McDonald (2015) the term disruptive technology has been widely misused and misunderstood ever since it became popular. As for this matter, it is important to know the main characteristics of a disruptive technology before considering a certain product as one. First, “disruptive” has a negative ring to it wherein people might assume that when a technology is disruptive, it negatively affects the user or the society. Disruption, from Christensen himself, happens when _“a smaller company with fewer resources is able to successfully **challenge established incumbent businesses**”_ which is through **creating a market of their own** by **targeting the overlooked market segment by these large businesses**. The product could also be the following (based on Christensen, 2014):
 
@@ -26,6 +27,6 @@ Before proceeding to the status report on the affected industries, it is importa
 NEXT
 [Web & Video Conferencing and Regular Calls](second.md)
 
-[references](references.md)
+[References](references.md)
 
 
