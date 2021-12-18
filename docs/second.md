@@ -31,10 +31,11 @@ The dawn of video conferencing now paved the way for both audio features and vid
 
 Some of the telephone companies disruptively affected by the advent of video conferencing are major competitors such as Motorola, VTech, Philips, Panasonic and Alcatel among many major competitors. This technological dynamic has forced these businesses to change the way they operate, barely hanging by the thread (Global Landline Phones Market Growth, 2021).  
 
+---
 
+[NEXT](third.md)
+[PREVIOUS](index.md)
 
-NEXT [Web & Video Conferencing and Working Spaces](third.md)
-
-PREVIOUS [Home](index.md)
+---
 
 [References](references.md)
