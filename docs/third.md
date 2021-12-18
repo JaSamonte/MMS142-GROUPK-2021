@@ -4,7 +4,7 @@
 _The pandemic has changed how the workforce operated worldwide. Many businesses closed as health protocols tightened. People were suddenly refrained from interacting with each other in the real world to prevent the spread of COVID-19. Even news reporters–who did not stop a day of work–found a way to integrate their duties and set-up at their homes._ 
 
 ![work from home set-up](https://images.pexels.com/photos/4491461/pexels-photo-4491461.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
-_Image from Karolina Grabowska_
+_Image from Karolina Grabowska (Pexels)_
 
 Many people have adapted and shifted to telecommuting or remote work, moving collaborative documents to online spaces, and meetings to video-conferencing applications. Most individuals utilized their spaces at home, and created a location in one of their rooms to be their designated work-place as the pandemic prolonged.
 
