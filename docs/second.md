@@ -36,5 +36,4 @@ NEXT [Web & Video Conferencing and Working Spaces](third.md)
 
 PREVIOUS [Home](index.md)
 
-[references](references.md)
-___________________________________________________________________________________________________________________________________________________
+[References](references.md)
