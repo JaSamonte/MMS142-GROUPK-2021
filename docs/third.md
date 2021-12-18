@@ -41,7 +41,7 @@ This did not only affect the corporate industries and its people, but has also i
 
   Video conferencing is now easier than ever thanks to applications such as Skype or Google Hangouts, which can be accessed anywhere via your smartphone or computer. Moreover, software choices are now more varied than ever. Today, the most prevalent are Skype, Hangouts, and Zoom - all free.
 
-  Among the most popular web-conferencing tools is Zoom. It has been well-known since 2013, however this 2020 it’s been one of the most used web-conferencing platforms. It can enable unlimited users worldwide to collaborate and attend meetings. With millions forced to stay at home as a result of the Coronavirus pandemic, the 9-year-old platform has become a go-to service (Kelly, 2020). As well as providing a reliable platform for virtual meetings, it has been used for classroom lessons, church services, hanging out with friends, and even romantic dates.
+Among the most popular web-conferencing tools is Zoom. It has been well-known since 2013, however this 2020 it’s been one of the most used web-conferencing platforms. It can enable unlimited users worldwide to collaborate and attend meetings. With millions forced to stay at home as a result of the Coronavirus pandemic, the 9-year-old platform has become a go-to service (Kelly, 2020). As well as providing a reliable platform for virtual meetings, it has been used for classroom lessons, church services, hanging out with friends, and even romantic dates.
 
 
 NEXT [Web & Video Conferencing and Flight Services & Lodging](fourth.md)
