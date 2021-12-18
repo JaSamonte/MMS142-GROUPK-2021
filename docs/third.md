@@ -70,9 +70,11 @@ The use of email has become prevalent to communicate and coordinate with compani
 
 (add here)
 
+---
 
-NEXT [Web & Video Conferencing and Flight Services & Lodging](fourth.md)
+[NEXT](fourth.md)
+[PREVIOUS](second.md)
 
-PREVIOUS [Web & Video Conferencing and Regular Calls](second.md)
+---
 
 [References](references.md)
