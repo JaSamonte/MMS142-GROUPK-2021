@@ -3,22 +3,23 @@
 ## EDUCATION
 ### *by Janielle Marisse Samonte*
 
-Face-to-face services like co-working spaces, flight services, and lodging were toppled down due to the pandemic. However, it’s not only these which were gravely affected. Because of the pandemic, the education sector was forced to shift from face-to-face to other variations and modes of classes. There’s blended-learning, home-schooling, distance-learning, and e-learning. But a lot of schools chose online learning as the main mode of learning.
+Face-to-face services like co-working spaces, flight services, and lodging were toppled down due to the pandemic. However, it’s not only these which were gravely affected. Because of the pandemic, the education sector was also forced to shift from face-to-face to other variations and modes of classes. To name a few, there is blended-learning, home-schooling, distance-learning, and e-learning. But a lot of schools chose e-learning or any online learning modality as the main mode of teaching.
 
 Synchronous online classes became a temporary replacement for face-to-face discussions. To hold these kinds of sessions, of course, many used web conferencing applications like the following: 
 
-1. Zoom, 
-<img src = "https://github.com/JaSamonte/MMS142-GROUPK-2021/blob/e97cac0fd2bda1689c85420bdc90796e482a8672/docs/images/zoomlogo.png" align = "center" alt = "Zoom Logo" width = "350" height = "200">
+1. Zoom,
+<img src = "https://www.motiongraphicplus.com/wp-content/uploads/2020/04/zoom-logo-png-2048x1152.png" align = "center" alt = "Zoom Logo" width = "350" height = "200">
 2. Discord, 
-<img src = "https://github.com/JaSamonte/MMS142-GROUPK-2021/blob/e97cac0fd2bda1689c85420bdc90796e482a8672/docs/images/discord.jpg" align = "center" alt = "Discord Logo" width = "350" height = "200">
+<img src = "https://www.videogameschronicle.com/files/2021/05/discord-new-logo.jpg" align = "center" alt = "Discord Logo" width = "350" height = "200">
 3. Google Meet,  
-<img src = "https://github.com/JaSamonte/MMS142-GROUPK-2021/blob/e97cac0fd2bda1689c85420bdc90796e482a8672/docs/images/googlemeet.png" align = "center" alt = "Google Meet Logo" width = "350" height = "200">
+<img src = "https://iconape.com/wp-content/uploads/1/12/google-meet-0%D9%A3.png" align = "center" alt = "Google Meet Logo" width = "350" height = "200">
 4. and Microsoft Teams 
-<img src = "https://github.com/JaSamonte/MMS142-GROUPK-2021/blob/f8e68bd73ebffed214f79f92dc8cce8d6dc0d7d3/docs/images/microteams.png" align = "center" alt = "MicroTeams Logo" width = "350" height = "200">
+<img src = "https://logos-world.net/wp-content/uploads/2021/04/Microsoft-Teams-Emblem.png" align = "center" alt = "MicroTeams Logo" width = "350" height = "200">
 
-These video web conferencing applications are said to be part of what we call Educational Technology or **EdTech** for short. These tools received big investments this 2019, and specifically it reached a total of **18.66 billion dollars** (Li & Lalani, 2020). That said, it is observed that the pandemic caused a high surge in EdTech usage since face-to-face classes is a no go for safety purposes. Thus, it is seen that **online classes paved the way for the usage of video conferencing software/applications.** 
+These video web conferencing applications are said to be part of what we call Educational Technology or **EdTech** for short. These tools received big investments this 2019, and specifically it reached a total of **18.66 billion dollars** (Li & Lalani, 2020). That said, it is observed that the pandemic caused a high surge in EdTech usage since face-to-face classes is a no go for safety purposes. 
 
-More companies invest on new cloud servers to support online distance learning. For example, Alibaba’s distance learning solution involved tapping to more cloud storage to deploy more cloud servers within months. Thus, we can see that it is disruptive, especially this pandemic.
+An example of EdTech widely used today would be Zoom which gained a worldwide traction not just from companies but also for remote learning ***(E-learning, Blended-learning, Distance Learning, etc.)***. It was founded in 2011 and was first a video conferencing company but they soon launched their own software in 2013 (Dai, 2020). However, it became most profitable in 2019. Then more used this app this pandemic. In addition, more companies also invest on new cloud servers to support online distance learning. An example that Li & Lalani (2020) stated that Alibaba’s distance learning solution involved tapping to more cloud storage to deploy more cloud servers within months. Thus, it is seen that... 
+### **online classes paved the way for the usage of video conferencing software/applications and is deemed to be disruptive especially this pandemic.**  
 
 ## ENTERTAINMENT
 ### *by Mark Adrian Segovia*
