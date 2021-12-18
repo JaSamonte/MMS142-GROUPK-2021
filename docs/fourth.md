@@ -13,9 +13,13 @@ Since web and video conferencing offers such convenience, the demand for flight 
 
 Furthermore, the pandemic is said to have accelerated this inevitability by giving people more reason to stay at home and utilize this technology in order to protect themselves.
 
+---
 
-NEXT [Web & Video Conferencing and Other Industries](fifth.md)
 
-PREVIOUS [Working and Co-Working Spaces Before Pandemic](third.md)
+[PREVIOUS](third.md)
+
+[NEXT](fifth.md)
+
+---
 
 [References](references.md)
