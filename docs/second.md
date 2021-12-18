@@ -1,8 +1,5 @@
-_____________________________________________________________________________________________________________________________________________________
 # Web & Video Conferencing and Regular Calls
 ### *by Ariel Marie Sanchez and Caleb Revilla*
-
-
 
 **Web & Video Conferencing and Regular Calls**
 
