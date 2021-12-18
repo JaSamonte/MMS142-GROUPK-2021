@@ -5,7 +5,7 @@ _The pandemic has changed how the workforce operated worldwide. Many businesses 
 
 Many people have adapted and shifted to telecommuting or remote work, moving collaborative documents to online spaces, and meetings to video-conferencing applications. Most individuals utilized their spaces at home, and created a location in one of their rooms to be their designated work-place as the pandemic prolonged.
 
-  This did not only affect the corporate industries and its people, but has also impacted physical working spaces, co-working spaces, and other places that used to offer up their venues for rental for the workforce.
+This did not only affect the corporate industries and its people, but has also impacted physical working spaces, co-working spaces, and other places that used to offer up their venues for rental for the workforce.
 
  
  
