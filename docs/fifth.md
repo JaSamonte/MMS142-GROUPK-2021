@@ -8,6 +8,7 @@ Face-to-face services like co-working spaces, flight services, and lodging were 
 Synchronous online classes became a temporary replacement for face-to-face discussions. To hold these kinds of sessions, of course, many used web conferencing applications like the following: 
 
 - Zoom,
+
 <img src = "https://www.motiongraphicplus.com/wp-content/uploads/2020/04/zoom-logo-png-2048x1152.png" align = "center" alt = "Zoom Logo" width = "350" height = "200"> 
 
 *logo from motion graphic plus*
