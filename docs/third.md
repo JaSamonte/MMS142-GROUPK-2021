@@ -31,7 +31,7 @@ This did not only affect the corporate industries and its people, but has also i
 
   They’ve provided internet access to every worker, and sometimes given them company laptops and gadgets so that they can work from their houses with ease. Everyday meetings and conferences shifted from being scheduled to a room, to becoming web-conference calls via Zoom, Google Meets, Skype, and more.
 
-  The use of emails have also been utilized to its full potential. Because of the pandemic _____ million emails have been recorded in 2020 alone. 
+  The use of emails have also been utilized to its full potential. Because of the pandemic _____ million emails have been recorded in 2020 alone! 
 
 
 
