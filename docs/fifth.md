@@ -37,7 +37,7 @@ An example of EdTech widely used today would be Zoom which gained a worldwide tr
 ### *by Mark Adrian Segovia*
 Piracy is the greatest disruption to the entertainment industry and video conferencing is now used for piracy. Because of the pandemic, many artists opted  to stream their live performances/ concerts through the internet. Just like in the past, you need to buy tickets to be able to watch their performance, you will use the ticket to access the live stream and enjoy the show. But with the use of video conferencing platforms these live shows can be watched without buying a ticket. You just need to be part of a group chat and you will do a video conference, share the stream and let all members enjoy the show for free. 
 
-![alt text](https://www.google.com/search?q=concert+live+stram&tbm=isch&ved=2ahUKEwj6-KPKju70AhVsxosBHSKkA5oQ2-cCegQIABAA&oq=concert+live+stram&gs_lcp=CgNpbWcQAzoHCCMQ7wMQJzoECAAQQzoICAAQsQMQgwE6CAgAEIAEELEDOgcIABCxAxBDOgUIABCABDoGCAAQBRAeOgYIABAIEB5QkwdYlB5g6h9oAHAAeACAAV2IAb0LkgECMTmYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=kzq-YbrjDeyMr7wPosiO0Ak&bih=947&biw=1920&rlz=1C1ONGR_enPH945PH945#imgrc=CDj9mlkMY3vO1M)
+![alt text](https://www.dreamcast.ae/blog/wp-content/uploads/2020/02/music-events-streaming-providers-768x403.jpg)
 
 Discord for example, Discord is an instant messaging and digital distribution platform where users can communicate and share contents through servers. It is used by gamers to stream the game while they're playing. Or you can watch movies with friends. Because of these capabilities of the platform, it can also illegally stream contents without being caught since it's a private group/server. 
 
