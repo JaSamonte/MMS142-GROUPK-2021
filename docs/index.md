@@ -1,3 +1,7 @@
+[Web & Video Conferencing](index.md) and [Regular calls](second.md), [Working Spaces](third.md), [Flight Services & Lodging](fourth.md), [Education & Others](fifth.md)
+
+---
+
 # Disruptive Technologies: Web and Video Conferencing
 ### _by Patrick Angelo A. Soriano_
 
