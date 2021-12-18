@@ -72,9 +72,9 @@ The use of email has become prevalent to communicate and coordinate with compani
 
 ---
 
-[NEXT](fourth.md)
-
 [PREVIOUS](second.md)
+
+[NEXT](fourth.md)
 
 ---
 
