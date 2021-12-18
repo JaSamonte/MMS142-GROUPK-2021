@@ -41,6 +41,8 @@ Piracy is the greatest disruption to the entertainment industry and video confer
 
 Discord for example, Discord is an instant messaging and digital distribution platform where users can communicate and share contents through servers. It is used by gamers to stream the game while they're playing. Or you can watch movies with friends. Because of these capabilities of the platform, it can also illegally stream contents without being caught since it's a private group/server. 
 
+![alt text](https://beebom.com/wp-content/uploads/2021/06/stop-stream-discord.jpg?quality=75&strip=all)
+
 Aside from these, the content sharing capabilities of video conferencing applications, just like video streaming, disrupts the markets of movie theaters and cable television. Instead of going out for a movie with friends or watching TV together, users can just use video conferencing platforms to do a video conference and share content.
 
 ---
