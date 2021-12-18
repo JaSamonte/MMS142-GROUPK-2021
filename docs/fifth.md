@@ -7,14 +7,26 @@ Face-to-face services like co-working spaces, flight services, and lodging were 
 
 Synchronous online classes became a temporary replacement for face-to-face discussions. To hold these kinds of sessions, of course, many used web conferencing applications like the following: 
 
-1. Zoom,
-<img src = "https://www.motiongraphicplus.com/wp-content/uploads/2020/04/zoom-logo-png-2048x1152.png" align = "center" alt = "Zoom Logo" width = "350" height = "200">
-2. Discord, 
+- Zoom,
+<img src = "https://www.motiongraphicplus.com/wp-content/uploads/2020/04/zoom-logo-png-2048x1152.png" align = "center" alt = "Zoom Logo" width = "350" height = "200"> 
+
+*logo from motion graphic plus*
+
+- Discord, 
 <img src = "https://www.videogameschronicle.com/files/2021/05/discord-new-logo.jpg" align = "center" alt = "Discord Logo" width = "350" height = "200">
-3. Google Meet,  
+
+*logo from video games chronicle*
+
+- Google Meet,  
 <img src = "https://iconape.com/wp-content/uploads/1/12/google-meet-0%D9%A3.png" align = "center" alt = "Google Meet Logo" width = "350" height = "200">
-4. and Microsoft Teams 
-<img src = "https://logos-world.net/wp-content/uploads/2021/04/Microsoft-Teams-Emblem.png" align = "center" alt = "MicroTeams Logo" width = "350" height = "200">
+
+*logo from icon ape*
+
+- and Microsoft Teams 
+<img src = "https://logos-world.net/wp-content/uploads/2021/04/Microsoft-Teams-Emblem.png" align = "center" alt = "MicroTeams Logo" width = "350" height = "200"> 
+
+*image from logos-world*
+
 
 These video web conferencing applications are said to be part of what we call Educational Technology or **EdTech** for short. These tools received big investments this 2019, and specifically it reached a total of **18.66 billion dollars** (Li & Lalani, 2020). That said, it is observed that the pandemic caused a high surge in EdTech usage since face-to-face classes is a no go for safety purposes. 
 
