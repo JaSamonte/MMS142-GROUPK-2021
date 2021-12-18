@@ -8,13 +8,13 @@ Face-to-face services like co-working spaces, flight services, and lodging were 
 Synchronous online classes became a temporary replacement for face-to-face discussions. To hold these kinds of sessions, of course, many used web conferencing applications like the following: 
 
 1. Zoom, 
-<img src = "https://github.com/JaSamonte/MMS142-GROUPK-2021/blob/main/docs/images/Zoom-Logo.png" align = "center" alt = "Zoom Logo" width = "350" height = "200">
+<img src = "https://github.com/JaSamonte/MMS142-GROUPK-2021/blob/e97cac0fd2bda1689c85420bdc90796e482a8672/docs/images/zoomlogo.png" align = "center" alt = "Zoom Logo" width = "350" height = "200">
 2. Discord, 
-<img src = "https://github.com/JaSamonte/MMS142-GROUPK-2021/blob/main/docs/images/Discord.jpg" align = "center" alt = "Discord Logo" width = "350" height = "200">
+<img src = "https://github.com/JaSamonte/MMS142-GROUPK-2021/blob/e97cac0fd2bda1689c85420bdc90796e482a8672/docs/images/discord.jpg" align = "center" alt = "Discord Logo" width = "350" height = "200">
 3. Google Meet,  
-<img src = "https://github.com/JaSamonte/MMS142-GROUPK-2021/blob/main/docs/images/GoogleMeet.png" align = "center" alt = "Google Meet Logo" width = "350" height = "200">
+<img src = "https://github.com/JaSamonte/MMS142-GROUPK-2021/blob/e97cac0fd2bda1689c85420bdc90796e482a8672/docs/images/googlemeet.png" align = "center" alt = "Google Meet Logo" width = "350" height = "200">
 4. and Microsoft Teams 
-<img src = "https://github.com/JaSamonte/MMS142-GROUPK-2021/blob/main/docs/images/MicroTeams.png" align = "center" alt = "MicroTeams Logo" width = "350" height = "200">
+<img src = "https://github.com/JaSamonte/MMS142-GROUPK-2021/blob/f8e68bd73ebffed214f79f92dc8cce8d6dc0d7d3/docs/images/microteams.png" align = "center" alt = "MicroTeams Logo" width = "350" height = "200">
 
 These video web conferencing applications are said to be part of what we call Educational Technology or **EdTech** for short. These tools received big investments this 2019, and specifically it reached a total of **18.66 billion dollars** (Li & Lalani, 2020). That said, it is observed that the pandemic caused a high surge in EdTech usage since face-to-face classes is a no go for safety purposes. Thus, it is seen that **online classes paved the way for the usage of video conferencing software/applications.** 
 
