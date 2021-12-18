@@ -23,6 +23,8 @@ All of these primary characteristics create a disruptive technology, like web an
 
 Before proceeding to the status report on the affected industries, it is important to point out the characteristics of a disruptive technology in web and video conferencing applications. First, it has **challenged existing applications and industries**, such as telecommunication, co-working spaces, flight and lodging, education, entertainment, and more (Dai, 2020). It has **built a new market** consisting of users who value collaboration and productivity rather than communication alone which large companies often aim for. Second and third, it is **new** and **convenient**; it is not the same as merely e-mailing, regular two-way or group texting and calling – it is all combined into one. Fourth, it is easy to operate with its **simple** user interface (Mclaughlin & Brame, 2021) that even the youngest students or technologically-inept can use it effectively. Fifth, most video and web conferencing applications are **available for free**. Payment is only required for Internet subscription and premium or additional features. Lastly, it is **unrefined**; the said applications are constantly improving on its features, security, and user experience in general. Taking all into consideration **web and video conferencing applications are disruptive technologies**.
 
+TESTING
+
 NEXT
 [Web & Video Conferencing and Regular Calls](second.md)
 
