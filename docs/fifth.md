@@ -1,3 +1,7 @@
+Web & Video Conferencing and [Regular calls](second.md), [Working Spaces](third.md), [Flight Services & Lodging](fourth.md), [Education & Others](fifth.md)
+
+---
+
 # Web & Video Conferencing and Other Industries
 
 ## EDUCATION
@@ -39,7 +43,7 @@ Aside from these, the content sharing capabilities of video conferencing applica
 
 ---
 
-PREVIOUS [Web & Video Conferencing and Flight Services & Lodging](fourth.md)                                  
+[PREVIOUS](fourth.md)                                  
 
 Back to [Home](index.md)
 
