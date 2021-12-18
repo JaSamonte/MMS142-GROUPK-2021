@@ -37,7 +37,7 @@ An example of EdTech widely used today would be Zoom which gained a worldwide tr
 ### *by Mark Adrian Segovia*
 Piracy is the greatest disruption to the entertainment industry and video conferencing is now used for piracy. Because of the pandemic, many artists opted  to stream their live performances/ concerts through the internet. Just like in the past, you need to buy tickets to be able to watch their performance, you will use the ticket to access the live stream and enjoy the show. But with the use of video conferencing platforms these live shows can be watched without buying a ticket. You just need to be part of a group chat and you will do a video conference, share the stream and let all members enjoy the show for free. 
 
-![alt text](https://www.dreamcast.ae/blog/wp-content/uploads/2020/02/music-events-streaming-providers-768x403.jpg)
+![alt text](https://www.befunky.com/images/wp/wp-2020-06-Live-Stream-Concert-23.jpg?auto=webp&format=jpg&width=950)
 
 Discord for example, Discord is an instant messaging and digital distribution platform where users can communicate and share contents through servers. It is used by gamers to stream the game while they're playing. Or you can watch movies with friends. Because of these capabilities of the platform, it can also illegally stream contents without being caught since it's a private group/server. 
 
