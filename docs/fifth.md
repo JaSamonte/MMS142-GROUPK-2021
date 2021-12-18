@@ -5,10 +5,16 @@
 
 Face-to-face services like co-working spaces, flight services, and lodging were toppled down due to the pandemic. However, it’s not only these which were gravely affected. Because of the pandemic, the education sector was forced to shift from face-to-face to other variations and modes of classes. There’s blended-learning, home-schooling, distance-learning, and e-learning. But a lot of schools chose online learning as the main mode of learning.
 
-Synchronous online classes became a temporary replacement for face-to-face discussions. To hold these kinds of sessions, of course, many used web conferencing applications like Zoom, Discord, Google Meet, and Microsoft Teams just to name a few. 
+Synchronous online classes became a temporary replacement for face-to-face discussions. To hold these kinds of sessions, of course, many used web conferencing applications like the following: 
 
-<img src = "https://github.com/JaSamonte/MMS142-GROUPK-2021/blob/main/docs/images/Zoom-Logo.png" align = "center" alt = "Zoom Logo" width = "350" height = "200"><img src = "https://github.com/JaSamonte/MMS142-GROUPK-2021/blob/main/docs/images/Discord.jpg" align = "center" alt = "Discord Logo" width = "350" height = "200">
-<img src = "https://github.com/JaSamonte/MMS142-GROUPK-2021/blob/main/docs/images/GoogleMeet.png" align = "center" alt = "Google Meet Logo" width = "350" height = "200"><img src = "https://github.com/JaSamonte/MMS142-GROUPK-2021/blob/main/docs/images/MicroTeams.png" align = "center" alt = "MicroTeams Logo" width = "350" height = "200">
+1. Zoom, 
+- <img src = "https://github.com/JaSamonte/MMS142-GROUPK-2021/blob/main/docs/images/Zoom-Logo.png" align = "center" alt = "Zoom Logo" width = "350" height = "200">
+2. Discord, 
+- <img src = "https://github.com/JaSamonte/MMS142-GROUPK-2021/blob/main/docs/images/Discord.jpg" align = "center" alt = "Discord Logo" width = "350" height = "200">
+3. Google Meet,  
+- <img src = "https://github.com/JaSamonte/MMS142-GROUPK-2021/blob/main/docs/images/GoogleMeet.png" align = "center" alt = "Google Meet Logo" width = "350" height = "200">
+4. and Microsoft Teams just to name a few. 
+- <img src = "https://github.com/JaSamonte/MMS142-GROUPK-2021/blob/main/docs/images/MicroTeams.png" align = "center" alt = "MicroTeams Logo" width = "350" height = "200">
 
 That said, **online classes paved the way for the usage of video conferencing software/applications.** 
 
