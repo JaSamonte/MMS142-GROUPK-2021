@@ -45,8 +45,8 @@ Aside from these, the content sharing capabilities of video conferencing applica
 
 [PREVIOUS](fourth.md)                                  
 
-Back to [Home](index.md)
+Back to [HOME](index.md)
 
 ---
 
-[references](references.md)
+[References](references.md)
