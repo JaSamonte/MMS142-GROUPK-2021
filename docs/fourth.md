@@ -13,6 +13,8 @@ Since web and video conferencing offers such convenience, the demand for flight 
 
 Furthermore, the pandemic is said to have accelerated this inevitability by giving people more reason to stay at home and utilize this technology in order to protect themselves.
 
+The covid-19 crisis led to travel restrictions resulting in a dramatic drop in demand for airline services. According to The International Air Transport Association (IATA), passenger air transport was down to 90% last April 2020 and 75% in August.  On the other hand, the crisis paved the way for web and video conferencing. Web and video conferencing applications acquire high demands from the corporate communications market, with an annual growth rate of 15.5% last 2020. 
+
 ---
 
 
