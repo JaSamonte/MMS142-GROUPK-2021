@@ -26,6 +26,6 @@ Before proceeding to the status report on the affected industries, it is importa
 NEXT
 [Web & Video Conferencing and Regular Calls](second.md)
 
-[references] (references.md)
+[references](references.md)
 
 
