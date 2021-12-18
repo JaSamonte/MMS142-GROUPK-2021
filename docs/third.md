@@ -64,11 +64,20 @@ The use of email has become prevalent to communicate and coordinate with compani
 
 #### Web Conferencing
 
-(add here)
+Video conferencing is getting more and more common these days. With so many businesses and educational institutions using it for training classes and teleconferences, it has become an indispensable tool for employees. Telephone conferences, which were little more than simple phone talks, were the starting point for video conferencing decades ago. Picturephone was the name given to the technology when it was originally launched in 1968. Participants were allowed to communicate with the person on the other end of the line through video (Vyopta, 2018). AT&T and Bell Labs were at the forefront of technological advancement since they were the only method of communication for decades on end (Patrizio, 2021). It was regarded as an expensive and low-quality method of conducting business. In recent years, digital technology has become less expensive and more effective.
+
+Video conferencing is now easier than ever thanks to applications such as Skype or Google Hangouts, which can be accessed anywhere via your smartphone or computer. Moreover, software choices are now more varied than ever. Today, the most prevalent are Skype, Hangouts, and Zoom - all free.
+Among the most popular web-conferencing tools is Zoom. It has been well-known since 2013, however this 2020 it’s been one of the most used web-conferencing platforms. It can enable unlimited users worldwide to collaborate and attend meetings. With millions forced to stay at home as a result of the Coronavirus pandemic, the 9-year-old platform has become a go-to service (Kelly, 2020). As well as providing a reliable platform for virtual meetings, it has been used for classroom lessons, church services, hanging out with friends, and even romantic dates.
 
 #### Evolution of Web Conferencing Applications in the Workplace
 
-(add here)
+Despite the fact that Zoom is the most widely used web conferencing program, some users feel it to be too easy because of its seemingly limited features. 
+There are a number of comparable apps available currently, several of which have additional functionalities and properties that have added a better user-experience as a web conferencing software. 
+
+Consider Gather Town, as an example. There is a virtual world present in this application, along with a video and call option. There are casual internet parties where you can virtually roam around a house as if you were at your own place. Organizing, being productive, and being successful are all made possible through the use of this program through world building online. It's helpful for giving a sensation of "physical interaction” even if it’s in a virtual landscape.
+
+If you prefer it to be in a 3D setting to make it feel more realistic, Mozilla Hubs, AltspaceVR, and Minecraft are all good options as well. World building is no longer new for certain platforms, and web conferencing has become an added bonus to foster organic interactions online. This goes to show that technology is constantly evolving, especially for web conferencing software.
+
 
 ---
 
