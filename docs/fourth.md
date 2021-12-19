@@ -6,7 +6,7 @@
 ### *by Carlo Miguel Romulo and Clarisse Angeline Rosario* 
 
 ![flights](https://images.pexels.com/photos/1309644/pexels-photo-1309644.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
-_Image by Sourav Mishra (Pexels)_
+_Image from Sourav Mishra (Pexels)_
 
 Technological advancements have one thing in common; they create "solutions" that are quick, cheap, and relatively simple. It indeed makes things easy and convenient. However, it also tends to quickly outmode and disrupt long-standing industries that provide "old" and suddenly less competitive solutions.
 
