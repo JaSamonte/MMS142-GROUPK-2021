@@ -5,6 +5,9 @@
 # Web & Video Conferencing and Flight Services & Lodgings
 ### *by Carlo Miguel Romulo and Clarisse Angeline Rosario* 
 
+![flights](https://images.pexels.com/photos/1309644/pexels-photo-1309644.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
+_Image by Sourav Mishra (Pexels)_
+
 Technological advancements have one thing in common; they create "solutions" that are quick, cheap, and relatively simple. It indeed makes things easy and convenient. However, it also tends to quickly outmode and disrupt long-standing industries that provide "old" and suddenly less competitive solutions.
 
 In web and video conferencing, it offers services that allows the users to connect with other individuals around the globe without the need for physical contact or engagement. It saves customers a lot of money on travel costs and saves them from the inconveniences of travel including aircraft delays, cancellations, and traffic jams. Why travel when you can meet and conduct meetings virtually? 
