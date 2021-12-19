@@ -47,10 +47,10 @@ Aside from these, the content sharing capabilities of video conferencing applica
 
 ---
 
-[PREVIOUS](fourth.md)                                  
+[**PREVIOUS**](fourth.md)                                  
 
-Back to [HOME](index.md)
+Back to [**HOME**](index.md)
 
 ---
 
-[References](references.md)
+[**REFERENCES**](references.md)
