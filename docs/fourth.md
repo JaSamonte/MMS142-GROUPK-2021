@@ -21,10 +21,10 @@ Furthermore, the pandemic is said to have accelerated this inevitability by givi
 ---
 
 
-[PREVIOUS](third.md)
+[**PREVIOUS**](third.md)
 
-[NEXT](fifth.md)
+[**NEXT**](fifth.md)
 
 ---
 
-[References](references.md)
+[**REFERENCES**](references.md)
