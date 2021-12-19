@@ -12,7 +12,7 @@ _Image by Karolina Grabowska (Pexels)_
 
 Many people have adapted and shifted to telecommuting or remote work, moving collaborative documents to online spaces, and meetings to video-conferencing applications. Most individuals utilized their spaces at home, and created a location in one of their rooms to be their designated work-place as the pandemic prolonged.
 
-This did not only affect the corporate industries and its people, but has also impacted physical working spaces, co-working spaces, and other places that used to offer up their venues for rental for the workforce.
+Thus, this did not only affect the corporate industries and its people, but has also impacted physical working spaces, co-working spaces, and other places that used to offer up their venues for rental for the workforce.
 
 
 #### Working and Co-Working Spaces Before Pandemic
@@ -35,11 +35,7 @@ _Now, co-working spaces are places where anyone can work and be productive even 
 ![co-working spaces](https://images.pexels.com/photos/7688335/pexels-photo-7688335.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
 _Image by Kindel Media (Pexels)_
 
-It’s a flexible space that can act as an office for anyone, by providing resources like desks, tables, access to the internet, printers, charging panels, snacks, and more. 
-
-Co-working is like a metaphorical public library where anyone can learn, study, and work on their own–while still being part of an unsaid community. 
-
-Co-working spaces have become popular worldwide, catering to the following:
+A __co-working space__  is a flexible space that can act as an office for anyone, by providing resources like desks, tables, access to the internet, printers, charging panels, snacks, and more. In addition, it is like a metaphorical public library where anyone can learn, study, and work on their own–while still being part of an unsaid community. These have become popular worldwide, catering to the following:
 - businessmen
 - freelance workers
 - start-up employees
@@ -69,26 +65,25 @@ Video conferencing is getting more and more common these days. With so many busi
 Picturephone was the name given to the technology when it was originally launched in 1968. Participants were allowed to communicate with the person on the other end of the line through video (Vyopta, 2018). 
 
 
-_**PATRICK PLS ADD HERE PHOTO OF A PICTUREPHONE BACK IN 1986**_
+![Picturephone](https://i.pinimg.com/originals/8b/83/43/8b8343b738a8e5a2e8a758f6ef04ce07.jpg) 
+_Image from Pinterest_
 
 AT&T and Bell Labs were at the forefront of technological advancement since they were the only method of communication for decades on end (Patrizio, 2021). It was regarded as an expensive and low-quality method of conducting business. In recent years, digital technology has become less expensive and more effective.
 
 Video conferencing is now easier than ever thanks to applications such as Skype or Google Hangouts, which can be accessed anywhere via your smartphone or computer. Moreover, software choices are now more varied than ever. Today, the most prevalent are Skype, Hangouts, and Zoom - all free.
 
 
-_**PATRICK PLS ADD HERE PHOTO OF A PEOPLE USING ZOOM**_
-
+![Person using a video conferencing app](https://cdn.mos.cms.futurecdn.net/qN84cdDFaERfq5iGsGBww9.jpg)
+_Image from TechRadar_
 
 Among the most popular web-conferencing tools is Zoom. It has been well-known since 2013, however this 2020 it’s been one of the most used web-conferencing platforms. It can enable unlimited users worldwide to collaborate and attend meetings. With millions forced to stay at home as a result of the Coronavirus pandemic, the 9-year-old platform has become a go-to service (Kelly, 2020). As well as providing a reliable platform for virtual meetings, it has been used for classroom lessons, church services, hanging out with friends, and even romantic dates.
 
 #### Evolution of Web Conferencing Applications in the Workplace
 
-Despite the fact that Zoom is the most widely used web conferencing program, some users feel it to be too easy because of its seemingly limited features. 
-There are a number of comparable apps available currently, several of which have additional functionalities and properties that have added a better user-experience as a web conferencing software. 
+Despite the fact that Zoom is the most widely used web conferencing program, some users feel it to be too easy because of its seemingly limited features. There are a number of comparable apps available currently, several of which have additional functionalities and properties that have added a better user-experience as a web conferencing software. One example of this would be __Gather Town__. Aside from the video and call option, there is also a virtual world present within the application. There are casual internet parties where you can virtually roam around a house as if you were at your own place. 
 
-Consider Gather Town, as an example. There is a virtual world present in this application, along with a video and call option. There are casual internet parties where you can virtually roam around a house as if you were at your own place. 
-
-_**PATRICK PLS ADD HERE PHOTO OF GATHER TOWN**_
+![Gather Town](https://91a81446437e9a44.azureedge.net/media/Ukie/News/gather.jpg)
+_Image by The Association for UK Interactive Entertainment_
 
 Organizing, being productive, and being successful are all made possible through the use of this program through world building online. It's helpful for giving a sensation of "physical interaction” even if it’s in a virtual landscape.
 
