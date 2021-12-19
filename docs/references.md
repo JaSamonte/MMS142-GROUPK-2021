@@ -17,8 +17,10 @@
 - Dai, B. (2020, May 14). Zoom: A story of disruptive innovation. LinkedIn. Retrieved December 13, 2021, from [https://www.linkedin.com/pulse/zoom-story-disruptive-innovation-benjamin](https://www.linkedin.com/pulse/zoom-story-disruptive-innovation-benjamin)
 - DeVries, T. (2020, August 15). The innovator's dilemma by Clayton Christensen - Book Summary. Tyler DeVries. Retrieved December 11, 2021, from [https://tylerdevries.com/book-summaries/the-innovators-dilemma/](https://tylerdevries.com/book-summaries/the-innovators-dilemma/)
 - G2. (2021). Best free web and video conferencing software in 2021 - G2. G2. Retrieved December 13, 2021, from [https://www.g2.com/categories/video-conferencing/free](https://www.g2.com/categories/video-conferencing/free)
+- Global Landline Phones Market Growth. (2021). Global landline phones market 2021 sales revenue analysis, major manufacturers, industry share and Forecast 2026. WBOC TV. Retrieved December 16, 2021, from https://www.wboc.com/story/44289803/global-landline-phones-market-2021-sales-revenue-analysis-major-manufacturers-industry-share-and-forecast-2026
 - Kelly, S., (2020, March 27.) Zoom's massive 'overnight success' actually took nine years. CNN. Retrieved December 18, [https://edition.cnn.com/2020/03/27/tech/zoom-app-coronavirus/index.html](https://edition.cnn.com/2020/03/27/tech/zoom-app-coronavirus/index.html)
 - LessWrong. (n.d.). The Best Virtual Worlds for "Hanging out". Retrieved December 18, 2021, from [https://www.lesswrong.com/posts/hswzBzHSMGxz8rcXg/the-best-virtual-worlds-for-hanging-out](https://www.lesswrong.com/posts/hswzBzHSMGxz8rcXg/the-best-virtual-worlds-for-hanging-out)
+- Long, S. (2021). Video conferencing vs traditional phone conference. Singapore Travel Guide. Retrieved December 16, 2021, from https://www.streetdirectory.com/travel_guide/153402/conference_call_pricing/video_conferencing_vs_traditional_phone_conference.html
 - Mclaughlin, M., & Brame, D. (2021, November 11). The Best Video Conferencing Software for 2021. PCMag Asia. Retrieved December 13, 2021, from [https://sea.pcmag.com/videoconferencing/4839/the-best-video-conferencing-software-for-2020](https://sea.pcmag.com/videoconferencing/4839/the-best-video-conferencing-software-for-2020)
 - Patrizio, A. (2021, August 17). The history and evolution of video conferencing. WhatIs.com. Retrieved December 18, 2021, from [https://whatis.techtarget.com/feature/The-history-and-evolution-of-video-conferencing](https://whatis.techtarget.com/feature/The-history-and-evolution-of-video-conferencing)
 - Radicati Group, Inc., (2019.) Email Statistics Report, 2019-2023. Retrieved December 18, 2021, from [https://www.radicati.com/wp/wp-content/uploads/2018/12/Email-Statistics-Report-2019-2023-Executive-Summary.pdf](https://www.radicati.com/wp/wp-content/uploads/2018/12/Email-Statistics-Report-2019-2023-Executive-Summary.pdf)
@@ -29,6 +31,8 @@
 - Vyopta. (2020, March 12). History of video conferencing - 1970 to 2019. Retrieved December 18, 2021, from [https://www.vyopta.com/blog/video-conferencing/brief-history-video-conferencing/](https://www.vyopta.com/blog/video-conferencing/brief-history-video-conferencing/)
 - Yarnfield Park. (2021, August 27). 5 Reasons Why Face to Face Meetings Are Still Important. Retrieved December 15, 2021, from:
 [https://www.yarnfieldpark.com/blog/why-face-to-face-meetings-are-still-important](https://www.yarnfieldpark.com/blog/why-face-to-face-meetings-are-still-important)
+- Zagorsky, J. L. (n.d.). Rise and fall of the landline: 143 years of telephones becoming more accessible – and smart. Phys.org. Retrieved December 16, 2021, from https://phys.org/news/2019-03-fall-landline-years-accessible-smart.html
+
 
 
 
