@@ -98,4 +98,4 @@ If you prefer it to be in a 3D setting to make it feel more realistic, Mozilla H
 
 ---
 
-[REFERENCES](references.md)
+[**REFERENCES**](references.md)
