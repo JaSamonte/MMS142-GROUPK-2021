@@ -12,6 +12,9 @@ Technological advancements have one thing in common; they create "solutions"
 
 In web and video conferencing, it offers services that allows the users to connect with other individuals around the globe without the need for physical contact or engagement. It saves customers a lot of money on travel costs and saves them from the inconveniences of travel including aircraft delays, cancellations, and traffic jams. Why travel when you can meet and conduct meetings virtually? 
 
+![vidconference](https://images.pexels.com/photos/4226122/pexels-photo-4226122.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
+_Image by Anna Shvets (Pexels)_
+
 Since web and video conferencing offers such convenience, the demand for flight services declined. It seems that people are more considerate and favorable to the said alternative solution. The advancement of web/video conferencing services also appears to be putting more pressure on flight services and lodgings, especially as these developments aim to promote remote work and provide users with flexible schedules, which creates a significant impact on corporate culture.
 
 Furthermore, the pandemic is said to have accelerated this inevitability by giving people more reason to stay at home and utilize this technology in order to protect themselves.
