@@ -40,4 +40,4 @@ Some of the telephone companies disruptively affected by the advent of video con
 
 ---
 
-[References](references.md)
+[REFERENCES](references.md)
