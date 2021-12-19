@@ -15,6 +15,9 @@ During the pandemic period business communication apps have largely grown, as mo
 
 **Zoom** being accessible both on computer and mobile phones makes for a good example, it is a highly accessible app available in almost every operating system and available to the public for “free,” plus it is very user friendly. In other words it's convenient.
 
+![zoom call](https://images.pexels.com/photos/4240610/pexels-photo-4240610.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260)
+_Image from Ivan Samkov_
+
 
 - **Video Conferencing’s Rise**
 
@@ -24,6 +27,9 @@ Popularity comes with some consequences, though. With so many users on the platf
 
 [note]
 “Why is this a disruptive technology? Regular calls just aren’t the same anymore, we went from landline to cell service credit to wireless online connections. People have already been communicating through the internet on a regular, sometimes even daily basis. The pandemic just closed the other options. Because many people lost access to long range traveling it was only second nature that people would look to the next best and affordable technology available.”
+
+![video conferencing](https://images.pexels.com/photos/4031817/pexels-photo-4031817.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
+_Image from Edward Jenner_
 
 **Video Conferencing Vs. Traditional Call Industry**
 
