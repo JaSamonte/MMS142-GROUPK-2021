@@ -92,7 +92,7 @@ If you prefer it to be in a 3D setting to make it feel more realistic, Mozilla H
 
 ---
 
-[PREVIOUS](second.md)
+[**PREVIOUS**](second.md)
 
 [NEXT](fourth.md)
 
