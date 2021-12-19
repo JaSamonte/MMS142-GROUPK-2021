@@ -6,7 +6,7 @@
 ### _by Patrick Angelo A. Soriano_
 
 ![technology in the office](https://images.pexels.com/photos/3183197/pexels-photo-3183197.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
-_Image by Fauxels (Pexels)_
+_Image from Fauxels (Pexels)_
 
 Living in the 21st century means having to experience the rapid production and proliferation of technologies around us. In the past couple of years, we have first-handedly witnessed and experienced changes in our daily lives that are ushered by technologies to help us perform certain tasks more efficiently and effectively. 
 
@@ -19,7 +19,7 @@ In relation, businesses find opportunities in technologies – most of the succe
 According to Smith (2020), an established company may be disrupted if it fails in terms of flexibility to adapt to emerging threats wherein if overlooked, disruptive technologies can take advantage of. From there, it works its way up to be the superior product or company as it crushes its incumbents (Christensen, 2014). 
 
 ![clayton christensen](https://hbr.org/resources/images/article_assets/2020/01/Jan20_24_143491995.jpg)
-_Clayton Christensen by John Lamparski (Getty Images)_
+_Clayton Christensen from John Lamparski (Getty Images)_
 
 As for Christensen, Raynor, and McDonald (2015) the term disruptive technology has been widely misused and misunderstood ever since it became popular. As for this matter, it is important to know the main characteristics of a disruptive technology before considering a certain product as one. 
 
@@ -38,7 +38,7 @@ First, “disruptive” has a negative ring to it wherein people might assume th
 All of these primary characteristics create a disruptive technology, like web and video conferencing applications. These applications allow long distance or international audio and video communication with built-in features like text chatting, screen recording, and screen sharing. Other additional features are scheduling, presentations, document sharing, and many more (G2, 2021). Web and video conferencing applications are considered to be disruptive, for it has changed the game for established applications and industries.
 
 ![video conferencing](https://images.pexels.com/photos/4226140/pexels-photo-4226140.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
-_Image by Anna Shvets (Pexels)_
+_Image from Anna Shvets (Pexels)_
 
 Before proceeding to the status report on the affected industries, it is important to point out the characteristics of a disruptive technology in web and video conferencing applications. 
 
