@@ -67,11 +67,14 @@ The use of email has become prevalent to communicate and coordinate with compani
 Video conferencing is getting more and more common these days. With so many businesses and educational institutions using it for training classes and teleconferences, it has become an indispensable tool for employees. Telephone conferences, which were little more than simple phone talks, were the starting point for video conferencing decades ago. 
 
 Picturephone was the name given to the technology when it was originally launched in 1968. Participants were allowed to communicate with the person on the other end of the line through video (Vyopta, 2018). 
+
+
 _**PATRICK PLS ADD HERE PHOTO OF A PICTUREPHONE BACK IN 1986**_
 
 AT&T and Bell Labs were at the forefront of technological advancement since they were the only method of communication for decades on end (Patrizio, 2021). It was regarded as an expensive and low-quality method of conducting business. In recent years, digital technology has become less expensive and more effective.
 
 Video conferencing is now easier than ever thanks to applications such as Skype or Google Hangouts, which can be accessed anywhere via your smartphone or computer. Moreover, software choices are now more varied than ever. Today, the most prevalent are Skype, Hangouts, and Zoom - all free.
+
 
 _**PATRICK PLS ADD HERE PHOTO OF A PEOPLE USING ZOOM**_
 
