@@ -27,7 +27,7 @@ Synchronous online classes became a temporary replacement for face-to-face discu
 
 ![Microsoft](https://logos-world.net/wp-content/uploads/2021/04/Microsoft-Teams-Emblem.png)
 
-> *images from: motion graphic plus, video games chronicle, icon ape, and logos-world*
+> *images from Motion Graphic Plus, Video Games Chronicle, Icon Ape, and logos-World*
 
 These video web conferencing applications are said to be part of what we call Educational Technology or **EdTech** for short. These tools received big investments this 2019, and specifically it reached a total of **18.66 billion dollars** (Li & Lalani, 2020). That said, it is observed that the pandemic caused a high surge in EdTech usage since face-to-face classes is a no go for safety purposes. 
 
@@ -38,10 +38,12 @@ An example of EdTech widely used today would be Zoom which gained a worldwide tr
 Piracy is the greatest disruption to the entertainment industry and video conferencing is now used for piracy. Because of the pandemic, many artists opted  to stream their live performances/ concerts through the internet. Just like in the past, you need to buy tickets to be able to watch their performance, you will use the ticket to access the live stream and enjoy the show. But with the use of video conferencing platforms these live shows can be watched without buying a ticket. You just need to be part of a group chat and you will do a video conference, share the stream and let all members enjoy the show for free. 
 
 ![alt text](https://www.befunky.com/images/wp/wp-2020-06-Live-Stream-Concert-23.jpg?auto=webp&format=jpg&width=950)
+_Image from BeFunky_
 
 Discord for example, Discord is an instant messaging and digital distribution platform where users can communicate and share contents through servers. It is used by gamers to stream the game while they're playing. Or you can watch movies with friends. Because of these capabilities of the platform, it can also illegally stream contents without being caught since it's a private group/server. 
 
 ![alt text](https://beebom.com/wp-content/uploads/2021/06/stop-stream-discord.jpg?quality=75&strip=all)
+_Image from Beebom_
 
 Aside from these, the content sharing capabilities of video conferencing applications, just like video streaming, disrupts the markets of movie theaters and cable television. Instead of going out for a movie with friends or watching TV together, users can just use video conferencing platforms to do a video conference and share content.
 
