@@ -34,7 +34,7 @@ Some of the telephone companies disruptively affected by the advent of video con
 
 ---
 
-[PREVIOUS](index.md)
+[**PREVIOUS**](index.md)
 
 [NEXT](third.md)
 
