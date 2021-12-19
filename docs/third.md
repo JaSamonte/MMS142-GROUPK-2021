@@ -48,7 +48,7 @@ But because of the pandemic, the concept of going to an office or renting a co-w
 
 The work from home set-up is not new, however it became the norm for corporations when COVID-19 had begun spreading across every country mid-March of 2020. People have started remotely working from their own house, and the industry completely shifted.
 
-Offices have begun to close, as remote work becomes the norm to help people in the pandemic (Davidson, 2021.) In the US, 27% of the American workforce have been predicted to be remote in 2021 according to Upwork's recent survey. When the pandemic showed no signs of stopping, 21 million workers in America moved out of major cities and office vacancies continued to rise. (Seabrook, 2021.) Many co-working spaces closed business locations worldwide as well.
+Offices have begun to close, as remote work becomes the norm to help people in the pandemic (Davidson, 2021.) In the US, 27% of the American workforce have been predicted to be remote in 2021 according to Upwork's recent survey. When the pandemic showed no signs of stopping, 21 million workers in America moved out of major cities and office vacancies continued to rise (Seabrook, 2021). Many co-working spaces closed business locations worldwide as well.
 
 For people to work from home, companies provided internet access to every worker, and sometimes given them company laptops and gadgets so that they can work from their houses with ease. Everyday meetings and conferences shifted from being scheduled to a room, to becoming web-conference calls via Zoom, Google Meets, Skype, and more.
 
