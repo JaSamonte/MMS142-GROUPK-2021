@@ -46,10 +46,10 @@ First, it has **challenged existing applications and industries**, such as telec
 
 ---
 
-[NEXT](second.md)
+[**NEXT**](second.md)
 
 ---
 
-[References](references.md)
+[**REFERENCES**](references.md)
 
 
